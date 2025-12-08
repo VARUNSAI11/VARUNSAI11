@@ -8,18 +8,24 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a **Cybersecurity Trained Graduate** who learns best through **hands-on experience**.  
-While I enjoy both Red Team and Blue Team work, I am **most passionate about SOC operations, Blue Team defense, and threat detection**.
+I’m a **Cybersecurity Trained Graduate** who learns best through hands-on work.  
+While I enjoy both Red and Blue Team roles, I’m especially passionate about:
 
-I hold a **B.Tech in Cyber Security** and completed an **MSc in Applied Cyber Security (Queen’s University Belfast)**, where I conducted advanced research on **Side-Channel Analysis (SCA) on Affine-Masked AES**, using **CNN, LSTM, MLP** to analyze masked/unmasked cryptographic leakage.
+- **SOC Operations**  
+- **Threat Detection & SIEM**  
+- **Incident Response**  
+- **Network & Malware Traffic Analysis**  
 
-I actively practice on **TryHackMe (Top 3%)** and Hack The Box, working on  
-🔹 Blue Team investigations  
-🔹 SIEM analysis  
-🔹 Red Team simulations  
-🔹 Incident response labs  
+I hold a **B.Tech in Cybersecurity** and completed an **MSc in Applied Cyber Security** at Queen’s University Belfast, where I researched **Side-Channel Analysis (SCA) on Affine-Masked AES**, using **CNN, LSTM, and MLP** for cryptographic leakage evaluation.
 
-I am **open to Blue Team, SOC Analyst, Cybersecurity Analyst, and Pentester roles**.
+I actively train on **TryHackMe (Top 3%)** and **Hack The Box**, practicing real-world SOC, Blue Team, and Red Team labs.
+
+I am **open to roles** in:
+
+✔ SOC Analyst  
+✔ Cyber Security Analyst  
+✔ Blue Team  
+✔ Pentester  
 
 ---
 
@@ -27,25 +33,25 @@ I am **open to Blue Team, SOC Analyst, Cybersecurity Analyst, and Pentester role
 
 ### 🔹 **Blue Team & SOC**
 - Incident Detection & Response  
-- SIEM: Splunk, Elastic, QRadar  
-- Log Analysis & Threat Hunting  
-- Network Security Monitoring  
+- SIEM (Splunk, Elastic, QRadar)  
+- Threat Hunting  
 - Malware Traffic Analysis  
-- MITRE ATT&CK Mapping  
+- Log Analysis (Linux + Windows)  
+- Network Defense  
 
-### 🔸 **Red Team & Pentesting**
+### 🔸 **Red Team & Penetration Testing**
 - Web & Mobile VAPT  
 - OWASP Top 10  
-- Internal Infrastructure Pentesting  
-- Exploit Development Basics  
-- Nmap, Burp Suite, Metasploit, Hydra  
+- Privilege Escalation  
+- Internal Network Pentesting  
+- Metasploit, Burp Suite, Hydra, Nmap  
 
 ### ⚙️ **Security & Governance**
 - ISO 27001  
 - PCI-DSS  
 - NIST CSF  
-- IAM (Identity & Access Management)  
-- Risk Assessment & Gap Analysis  
+- IAM  
+- Security Audits & Gap Assessments  
 
 ### 🧰 **Tools & Technologies**
 <p>
@@ -65,72 +71,71 @@ I am **open to Blue Team, SOC Analyst, Cybersecurity Analyst, and Pentester role
 
 ### **Cyber Security Specialist — InfoSec4TC (Part-time, Remote)**  
 **Aug 2024 – Feb 2025 | Dubai, UAE**  
-**Key Responsibilities:**  
-- Conducted **ISMS Gap Assessments**  
-- Assisted with **ISO 27001 & PCI-DSS implementations**  
-- Implemented **DLP** and **NIST** frameworks  
-- Performed vulnerability assessments & coordinated remediation  
-- Performed security audits, logging, reporting  
-- Delivered security awareness training  
-- Helped design DR and security response plans  
+
+**Responsibilities:**  
+- ISMS Gap Assessment  
+- ISO 27001 & PCI-DSS implementation support  
+- NIST CSF framework implementation  
+- Vulnerability assessments & remediation  
+- Security audits, reporting, and log reviews  
+- Enterprise DLP & antivirus deployment  
+- DR planning with IT teams  
+- Security awareness training  
 
 **Projects:**  
 - ISO 27001 Implementation  
 - PCI-DSS Implementation  
 - NIST Cybersecurity Framework  
-- Enterprise DLP & Antivirus Rollout  
+- Enterprise DLP & AV  
 
 ---
 
 ## 🎓 Education
 
-### **MSc in Applied Cyber Security — Queen’s University Belfast**  
+### 🎓 **MSc Applied Cyber Security — Queen’s University Belfast**  
 **2024 – 2025**  
-- Research on **Side-Channel Analysis (SCA) of Affine-Masked AES**  
-- Used CNN, LSTM, MLP for cryptographic attack modeling  
-- Participated in CTFs, Cyber Defense Exercises, SOC workshops  
-- Member of the Cyber Security Society  
+- Research: **Side-Channel Analysis on Affine-Masked AES**  
+- Used CNN, LSTM, MLP models  
+- Participated in CTFs, SOC workshops, Red vs Blue exercises  
 
-### **B.Tech CSE (Cyber Security) — GCET**  
+### 🎓 **B.Tech CSE (Cyber Security) — GCET**  
 **2020 – 2024**  
-- MITM Project in Network Communication  
-- Delivered seminar on Lockheed Martin Cyber Kill Chain  
-- Participated in CTFs, PenTesting workshops  
-- Internship on ML-Based Product Recommendation System  
+- MITM Project (ARP/DNS Spoofing Detection)  
+- Cyber Kill Chain Seminar  
+- CTF Participation & PenTesting Workshops  
 
 ---
 
 ## 🚀 Projects
 
-### **Side-Channel Analysis on Affine-Masked AES (Thesis)**
-- Implemented SPA, CPA, DPA  
-- Built CNN, LSTM, MLP models  
-- Analyzed masked/unmasked ASCAD dataset  
-- Cryptographic leakage comparison & key-rank evolution  
+### 🔸 **Side-Channel Analysis on Affine-Masked AES**  
+- SPA, CPA, DPA attacks  
+- Deep learning evaluation (CNN, LSTM, MLP)  
+- Masked vs unmasked leakage comparison  
 
-### **Man-in-the-Middle Attack Detection System**
+### 🔸 **Man-in-the-Middle Attack Detection System**  
 - Detects ARP/DNS spoofing  
 - Real-time alerting  
 - Packet inspection & anomaly detection  
 
-### **Machine Learning Based Recommendation System**
-- Built ML-based product recommendation engine  
-- Improved prediction accuracy using optimized data models  
+### 🔸 **ML-Based Recommendation System**  
+- Developed ML-based product recommendation engine  
+- Enhanced prediction accuracy  
 
 ---
 
 ## 🏆 Certifications
-- **TryHackMe – Cyber Security 101**  
-- **TryHackMe – Pre-Security**  
-- **CompTIA ITF+**  
-- **Mastercard Cybersecurity Job Simulation (Forage)**  
-- **DIAT Certified Information Assurance Professional**  
-- **Cyber Security Analyst Internship — Hacker School**  
-- **NIELIT Cyber Security & Ethical Hacking**  
-- **JNTU Cyber Security Certificate**  
-- **Microsoft Cybersecurity Analyst Specialization**  
-- **IIT Roorkee Cybersecurity Certification**  
-- **Google Cybersecurity Specialization**  
+- TryHackMe – Cyber Security 101  
+- TryHackMe – Pre-Security  
+- CompTIA ITF+  
+- Mastercard Cybersecurity Job Simulation (Forage)  
+- DIAT Certified Information Assurance Professional  
+- Hacker School — Cyber Security Analyst Internship  
+- NIELIT — Cyber Security & Ethical Hacking  
+- JNTU — Cyber Security Certificate  
+- Microsoft Cybersecurity Analyst Specialization  
+- IIT Roorkee — Advanced Cybersecurity Program  
+- Google Cybersecurity Specialization  
 
 ---
 
@@ -141,18 +146,23 @@ I am **open to Blue Team, SOC Analyst, Cybersecurity Analyst, and Pentester role
 
 ---
 
-## ✨ GitHub Stats (Cyberpunk Theme — Working Mirrors)
+## ✨ GitHub Stats (Cyberpunk Theme — Always Working)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VARUNSAI11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=VARUNSAI11&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VARUNSAI11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VARUNSAI11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🕸️ Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/varun-sai-yadla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/varunsaiyadla/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
