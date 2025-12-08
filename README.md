@@ -144,16 +144,6 @@ I am **open to roles** in:
   <img src="https://tryhackme-badges.s3.amazonaws.com/SecretAgent11.png" alt="TryHackMe Badge" />
 </a>
 
----
-
-## ✨ GitHub Stats (Cyberpunk Theme — Always Working)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VARUNSAI11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VARUNSAI11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🕸️ Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/varunsaiyadla/">
