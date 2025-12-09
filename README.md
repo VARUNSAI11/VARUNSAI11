@@ -78,8 +78,7 @@ I am **open to roles** in:
 - NIST CSF framework implementation  
 - Vulnerability assessments & remediation  
 - Security audits, reporting, and log reviews  
-- Enterprise DLP & antivirus deployment  
-- DR planning with IT teams  
+- Enterprise DLP & antivirus deployment   
 - Security awareness training  
 
 **Projects:**  
