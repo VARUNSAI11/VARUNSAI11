@@ -60,7 +60,6 @@ I am **open to roles** in:
 <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp-suite&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
