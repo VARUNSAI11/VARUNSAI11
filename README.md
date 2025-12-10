@@ -2,7 +2,7 @@
 <h1 align="center">⚡ Varun Sai Yadla — Cybersecurity | Blue Team | SOC | Pentester ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=23&center=true&vCenter=true&width=650&lines=Cybersecurity+Trained+Graduate;Blue+Team+%7C+SOC+Analyst;Threat+Detection+%26+SIEM;Top+3%25+TryHackMe;Always+Learning+Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=23&center=true&vCenter=true&width=650&lines=Cybersecurity+Trained+Graduate;Blue+Team+%7C+SOC+Analyst;Threat+Detection+%26+SIEM;Top+2%25+TryHackMe;Always+Learning+Always+Improving" />
 </p>
 
 ---
