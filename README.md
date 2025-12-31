@@ -139,7 +139,8 @@ I am **open to roles** in:
 
 ## 🎯 TryHackMe Badge
 <a href="https://tryhackme.com/p/SecretAgent11">
-<img src="https://tryhackme-badges.s3.amazonaws.com/SecretAgent11.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SecretAgent11.png" alt="Your Image Badge" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2759956" style='border:none;'></iframe>
 </a>
 
 ## 🕸️ Connect With Me
